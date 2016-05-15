@@ -2,7 +2,7 @@
 layout:     post
 title:      "新手利用腾讯云和AMH学会搭建微信公众平台代码"
 subtitle:   "利用腾讯云和AMH学会搭建微信公众平台代码"
-date:       2016-02-01 12:00:00
+date:       2016-04-24 23:00:00
 author:     "Hiralph"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
