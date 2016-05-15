@@ -22,8 +22,9 @@ layout: default
 					focus on web information security & mobile information security.</p>
 			</header>
 			<div class="main">
-				<ul class="cbp_tmtimeline
+				<ul class="cbp_tmtimeline">
 				
+				</ul>
 					{% if site.duoshuo_username %}
 					<li>
 						<div class="cbp_tmlabel">
@@ -32,14 +33,15 @@ layout: default
 			                    <div class="ds-thread"
 									data-thread-key="{{site.duoshuo_username}}/portfolio"
 			                        data-title="{{page.title}}"
-			                        data-url="{{site.url}}{{site.baseurl}}{{page.url}}" >
+			                        data-url="{{site.url}}{{site.baseurl}}{{fpage.url}}" >
 			                    </div>
 			                </div>
 			                <!-- 多说评论框 end -->
-						</div>
+							</div>
+						
 					</li> 
 					{% endif %}
-				</ul>
+				
 			</div>
 		</div>
 		{% if site.duoshuo_username %}
