@@ -12,6 +12,11 @@ tags:
     - JavaScript
     - 译文
 ---
+##<a name="index"/>目录
+* [申请腾讯云](#qcloud)
+* [下载Putty](#down)
+* [安装AMH](#install)
+* [配置FTP](#setftp)
 
 > 这篇文章转载自[我在知乎专栏「前端外刊评论」上发表的文章](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)。
 
