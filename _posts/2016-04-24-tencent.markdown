@@ -13,14 +13,7 @@ tags:
     - 开发
 ---
 
-## 目录
-- [申请腾讯云](#qcloud)
-- [下载Putty](#down)
-- [安装AMH](#install)
-- [配置FTP](#setftp)
-
-
-## <a name="qcloud"/>申请腾讯云
+##<a herf="#qcloud">申请腾讯云</a>
 
 #### 1.首先去[腾讯云官网](http://www.qcloud.com/)
 ![Qcloud1](/img/blog/jc1-txy.JPG)
