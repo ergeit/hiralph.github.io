@@ -8,9 +8,10 @@ header-mask: 0.3
 author:     "Hiralph"
 ---
 
+
 ## 功能需求：
 
-####以AMH面板为例,在服务器上安装一个微擎,并使用.
+#### 以AMH面板为例,在服务器上安装一个微擎,并使用.
 ![chaxun1](/img/blog/wqshow.JPG)
 
 ## 1.新建一个FTP站点，填写好域名如我的是wq.hizmz.com
