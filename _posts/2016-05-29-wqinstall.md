@@ -1,5 +1,5 @@
 ---
-date: 2016-05-19 22:00:00
+date: 2016-05-29 22:00:00
 layout: post
 title: 服务器版微擎安装使用
 catalog:    true
