@@ -4,7 +4,7 @@ SEOTitle: 助梦者的博客 | Ralph Blog
 header-img: img/home-bg.jpg
 email: hizmz@sina.com
 description: "关于前端与设计、黑客与画家 | 助梦者，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Ralph助梦者 的个人博客，与你一起发现更大的世界。"
-keyword: "助梦者, Ralph助梦者, Ralph, 鬼栈, huxpro, @huxpro, 助梦者的博客, Ralph Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+keyword: "助梦者, Ralph助梦者, Ralph, hiralph, @huxpro, 助梦者的博客, Ralph Blog, 博客, 个人网站, 微信公众平台开发"
 url: "http://hiralph.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -80,34 +80,25 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
+# 友链
 friends: [
     {
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Ving —— 一个有情怀的实习僧",
+        href: "http://mos.wzmos.cn/blog/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "微信源码论坛",
+        href: "http://www.yjwt.net/"
     },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "微信公众平台",
+        href: "http://mp.weixin.qq.com"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "微信公众平台接口测试帐号",
+        href: "http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "QQ互联平台",
+        href: "http://connect.qq.com/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "QQ公众平台",
+        href: "http://mp.qq.com"
     }
 ]
