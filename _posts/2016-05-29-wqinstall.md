@@ -20,7 +20,7 @@ author:     "Hiralph"
 ## 2.在微擎官网[ http://bbs.we7.cc/thread-9891-1-1.html](http://bbs.we7.cc/thread-9891-1-1.html)下载安装包
 ![chaxun2](/img/blog/wqinstall.JPG)
 
-## 3.利用Filezella,连上那个FTP站点，上传安装文件install.php到根目录
+## 3.利用Filezilla,连上那个FTP站点，上传安装文件install.php到根目录
 
 ## 4.访问绑定的域名/install.php 如wq.123.com/install.php,然后按照提示操作。
 ![chaxun2](/img/blog/wqinstall-1.jpg)
@@ -32,7 +32,7 @@ author:     "Hiralph"
 ![chaxun2](/img/blog/wqinstall-3.jpg)
 
 ___
->##如果仍然有疑问，可加群联系
+>## 如果仍然有疑问，可加群联系
 >![qqgroup](/img/blog/qqgroup.jpg)
 ___
 
