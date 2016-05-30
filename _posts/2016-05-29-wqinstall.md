@@ -1,11 +1,11 @@
 ---
 date: 2016-05-28 24:00:00+00:00
 layout: post
-title: 服务器版微擎安装使用
+title: 服务器版微擎安装使用 by 蔚蓝
 catalog:    true
 tags: 微信 微擎 开发
 header-mask: 0.3
-author:     "Hiralph"
+author:     "蔚蓝"
 ---
 
 
